@@ -31,7 +31,7 @@ const App = () => {
 
     return(
         <>
-        <h1 className="display-2 text-warning text-center">Note-It!</h1>
+        <h1 className="display-2 text-warning text-center">Note-It</h1>
         <div className="container mt-3 p-3">
             <CreateNote createNote={createNote} />
             <hr />
